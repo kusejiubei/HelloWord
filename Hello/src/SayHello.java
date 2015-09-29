@@ -1,6 +1,6 @@
 
 public class SayHello {
 public static void main(String[] args) {
-	System.out.println("------sss-----111--------");
+	System.out.println("------ssss-----111--------");
 }
 }
